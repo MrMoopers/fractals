@@ -1,0 +1,24 @@
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\bin\Debug\Fractilesss.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\bin\Debug\Fractilesss.pdb
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\bin\Debug\Fractilesss.xml
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\FractalsVB.vbprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.ColourSelector.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.frmMandelbrot.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\FractalsVB.vbproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\FractalsVB.vbproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\Fractilesss.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\Fractilesss.xml
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalVB\obj\x86\Debug\Fractilesss.pdb
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\bin\Debug\Fractilesss.exe
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\bin\Debug\Fractilesss.pdb
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\bin\Debug\Fractilesss.xml
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\FractalsVB.vbprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\WindowsApplication1.ColourSelector.resources
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\WindowsApplication1.frmMandelbrot.resources
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\FractalsVB.vbproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\FractalsVB.vbproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\Fractilesss.exe
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\Fractilesss.xml
+C:\Users\Adam\Desktop\Fractal-Factory\FractalVB\obj\x86\Debug\Fractilesss.pdb

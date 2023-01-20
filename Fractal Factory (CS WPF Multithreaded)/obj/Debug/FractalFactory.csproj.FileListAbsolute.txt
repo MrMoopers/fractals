@@ -1,0 +1,78 @@
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\StartUpWindow.baml
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\StartUpWindow.g.cs
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory_MarkupCompile.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory.g.resources
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory.Properties.Resources.resources
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\bin\Debug\FractalFactory.exe.config
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\bin\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\bin\Debug\FractalFactory.pdb
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Fractal Factory V4\Fractal Factory V2.0\obj\Debug\FractalFactory.pdb
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\bin\Debug\FractalFactory.exe.config
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\bin\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\bin\Debug\FractalFactory.pdb
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\StartUpWindow.baml
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\StartUpWindow.g.cs
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory_MarkupCompile.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.g.resources
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.Properties.Resources.resources
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.pdb
+D:\Fractal Factory V4\FractalFactory\bin\Debug\FractalFactory.exe.config
+D:\Fractal Factory V4\FractalFactory\bin\Debug\FractalFactory.exe
+D:\Fractal Factory V4\FractalFactory\bin\Debug\FractalFactory.pdb
+D:\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.csprojResolveAssemblyReference.cache
+D:\Fractal Factory V4\FractalFactory\obj\Debug\MainWindow.baml
+D:\Fractal Factory V4\FractalFactory\obj\Debug\StartUpWindow.baml
+D:\Fractal Factory V4\FractalFactory\obj\Debug\MainWindow.g.cs
+D:\Fractal Factory V4\FractalFactory\obj\Debug\StartUpWindow.g.cs
+D:\Fractal Factory V4\FractalFactory\obj\Debug\App.g.cs
+D:\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory_MarkupCompile.cache
+D:\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.g.resources
+D:\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.Properties.Resources.resources
+D:\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.csproj.GenerateResource.Cache
+D:\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.exe
+D:\Fractal Factory V4\FractalFactory\obj\Debug\FractalFactory.pdb
+D:\Fractal Factory V5 Color Construction\FractalFactory\bin\Debug\FractalFactory.exe.config
+D:\Fractal Factory V5 Color Construction\FractalFactory\bin\Debug\FractalFactory.exe
+D:\Fractal Factory V5 Color Construction\FractalFactory\bin\Debug\FractalFactory.pdb
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.csprojResolveAssemblyReference.cache
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\MainWindow.baml
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\StartUpWindow.baml
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\MainWindow.g.cs
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\StartUpWindow.g.cs
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\App.g.cs
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory_MarkupCompile.cache
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.g.resources
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.Properties.Resources.resources
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.csproj.GenerateResource.Cache
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.exe
+D:\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.pdb
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\bin\Debug\FractalFactory.exe.config
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\bin\Debug\FractalFactory.exe
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\bin\Debug\FractalFactory.pdb
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.csprojAssemblyReference.cache
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\MainWindow.baml
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\StartUpWindow.baml
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\MainWindow.g.cs
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\StartUpWindow.g.cs
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\App.g.cs
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory_MarkupCompile.cache
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.g.resources
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.Properties.Resources.resources
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.csproj.GenerateResource.cache
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.csproj.CoreCompileInputs.cache
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.exe
+E:\Pre-Uni Programs\Fractal Factory V5 Color Construction\FractalFactory\obj\Debug\FractalFactory.pdb

@@ -1,0 +1,54 @@
+E:\Fractals\Fractals\FractalsCS\bin\Debug\FractalsCS.exe.config
+E:\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.MainForm.resources
+E:\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.Properties.Resources.resources
+E:\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.csproj.GenerateResource.Cache
+H:\Fractals\Fractals\FractalsCS\bin\Debug\FractalsCS.exe.config
+E:\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.csprojResolveAssemblyReference.cache
+E:\Fractals\Fractals\FractalsCS\bin\Debug\FractalsCS.exe
+E:\Fractals\Fractals\FractalsCS\bin\Debug\FractalsCS.pdb
+E:\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.exe
+E:\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.pdb
+H:\Visual Studio CS\Fractals\Fractals\FractalsCS\bin\Debug\FractalsCS.exe.config
+H:\Visual Studio CS\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.exe
+H:\Visual Studio CS\Fractals\Fractals\FractalsCS\obj\Debug\FractalsCS.pdb
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.exe.config
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.exe
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.pdb
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.exe
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.pdb
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.csprojResolveAssemblyReference.cache
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.MainForm.resources
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.Properties.Resources.resources
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.csproj.GenerateResource.Cache
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.exe.config
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.exe
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.pdb
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.exe
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.pdb
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.csprojResolveAssemblyReference.cache
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.MainForm.resources
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.Properties.Resources.resources
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.csproj.GenerateResource.Cache
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.exe.config
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.exe
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.pdb
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.exe
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\bin\Debug\FractalsCS.pdb
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.csprojResolveAssemblyReference.cache
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.MainForm.resources
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.Properties.Resources.resources
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.csproj.GenerateResource.Cache
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.ChooseColorPalette.resources
+H:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.ColorPaletteDialog.resources
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalsCS\obj\Debug\FractalsCS.ColorPaletteDialog.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\bin\Debug\FractalsCS.exe.config
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\bin\Debug\FractalsCS.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\bin\Debug\FractalsCS.pdb
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.ColorPaletteDialog.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.MainForm.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.Properties.Resources.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\FractalsCS\obj\Debug\FractalsCS.pdb

@@ -1,0 +1,32 @@
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\bin\Debug\FractalFactory.exe.config
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\bin\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\bin\Debug\FractalFactory.pdb
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\Fractal Factory (CS WPF Multithreaded).csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\StartUpWindow.baml
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\StartUpWindow.g.cs
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory_MarkupCompile.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.g.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.Properties.Resources.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\Fractal Factory (CS WPF Multithreaded).csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\Fractal Factory (CS WPF Multithreaded).csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.pdb
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\bin\Debug\FractalFactory.exe.config
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\bin\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\bin\Debug\FractalFactory.pdb
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\Fractal Factory (CS WPF Multithreaded).csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\StartUpWindow.baml
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\StartUpWindow.g.cs
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory_MarkupCompile.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.g.resources
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.Properties.Resources.resources
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\Fractal Factory (CS WPF Multithreaded).csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\Fractal Factory (CS WPF Multithreaded).csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.exe
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF Multithreaded)\obj\Debug\FractalFactory.pdb

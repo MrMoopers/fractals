@@ -1,0 +1,32 @@
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\bin\Debug\Fractal_Factory_V2._0.exe.config
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\bin\Debug\Fractal_Factory_V2._0.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\bin\Debug\Fractal_Factory_V2._0.pdb
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal Factory (CS WPF).csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\StartUpWindow.baml
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\StartUpWindow.g.cs
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0_MarkupCompile.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.g.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.Properties.Resources.resources
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal Factory (CS WPF).csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal Factory (CS WPF).csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.exe
+C:\Users\Adam\Desktop\Adam Biggs\Student\TBSHS\Computer Science\Fractal Generators\Fractals\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.pdb
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\bin\Debug\Fractal_Factory_V2._0.exe.config
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\bin\Debug\Fractal_Factory_V2._0.exe
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\bin\Debug\Fractal_Factory_V2._0.pdb
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal Factory (CS WPF).csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\StartUpWindow.baml
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\StartUpWindow.g.cs
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0_MarkupCompile.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.g.resources
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.Properties.Resources.resources
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal Factory (CS WPF).csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal Factory (CS WPF).csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.exe
+C:\Users\Adam\Desktop\Fractal-Factory\Fractal Factory (CS WPF)\obj\Debug\Fractal_Factory_V2._0.pdb

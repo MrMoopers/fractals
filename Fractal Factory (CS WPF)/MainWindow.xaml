@@ -1,0 +1,32 @@
+﻿<Window x:Class="Fractal_Factory_V2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        Height="710" 
+        Width="839"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}">
+
+    <Grid Margin="0,0,2,-21">
+
+        <Image x:Name="fractalImage" HorizontalAlignment="Left" Height="640" Margin="179,10,0,0" VerticalAlignment="Top" Width="640"   Source="{Binding MyBitmap}"/>
+        <!--<Border x:Name="CanvasBorder" BorderBrush="Black" Width="600" Height="600" Margin="153,10,0,0" BorderThickness="3">-->
+        <Canvas x:Name="fractalCanvas" Margin="179,10,0,0"  HorizontalAlignment="Left" Width="640" Height="640" VerticalAlignment="Top"  Background="Transparent" MouseLeftButtonDown="fractalCanvas_MouseLeftButtonDown" MouseMove="fractalCanvas_MouseMove" MouseLeftButtonUp="fractalCanvas_MouseLeftButtonUp"/>
+        <!--</Border >-->
+        <Label Content="Fractal Factory" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <StackPanel Margin="10,39,681,25">
+            <StackPanel Orientation="Horizontal" Margin="3,0,10,0">
+                <Button x:Name="BtnBack" Content="Back"  Width="50.5" Height="30" FontSize="8" Margin="2" Click="BtnBack_ClickEvent" />
+                <Button x:Name="BtnForward" Content="Forward" Width="50.5" Height="30" FontSize="8" Margin="2" Click="BtnForward_ClickEvent" />
+            </StackPanel>
+            <Button x:Name="Btn_OpenStartCoordinates" Content="Open (Starting Coordinates)" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8" Margin="5" Click="Btn_OpenStartCoordinates_Click" />
+            <Button x:Name="Btn_OpenCurrentCoordinates" Content="Open (Current Coordinates)" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8" Margin="5"  />
+            <Button x:Name="Btn_OpenTargetCoordinates" Content="Open (Target Coordinates)" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8"  Margin="5" />
+            <Button x:Name="Btn_SaveStartCoordinates" Content="Save (Starting Coordinates)" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8" Margin="5" Click="Btn_SaveStartCoordinates_Click" />
+            <Button x:Name="Btn_SaveCurrentCoordinates" Content="Save (Current Coordinates)" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8" Margin="5" Click="Btn_SaveCurrentCoordinates_Click" />
+            <Button x:Name="Btn_Restart" Content="Restart" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8" Margin="5" Click="Btn_Restart_Click"          />
+            <Button x:Name="Btn_SaveAsImage" Content="Save As Image" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8" Margin="5"       />
+            <Button x:Name="Btn_StartNewColorPallete" Content="Start New C.Palette" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="105" Height="30" FontSize="8"      Margin="5"   />
+            <Button x:Name="Btn_RestartNewColorPallete" Content="Restart Current C.Palette" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Height="30" FontSize="8"  Margin="5"  />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+E:\Fractals\Fractals\FractalVB\bin\Debug\Fractilesss.exe
+E:\Fractals\Fractals\FractalVB\bin\Debug\Fractilesss.pdb
+E:\Fractals\Fractals\FractalVB\bin\Debug\Fractilesss.xml
+E:\Fractals\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.ColourSelector.resources
+E:\Fractals\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.frmMandelbrot.resources
+E:\Fractals\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Fractals\Fractals\FractalVB\obj\x86\Debug\Fractilesss.vbproj.GenerateResource.Cache
+E:\Fractals\Fractals\FractalVB\obj\x86\Debug\Fractilesss.exe
+E:\Fractals\Fractals\FractalVB\obj\x86\Debug\Fractilesss.xml
+E:\Fractals\Fractals\FractalVB\obj\x86\Debug\Fractilesss.pdb
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\Fractilesss.exe
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\Fractilesss.xml
+E:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\Fractilesss.pdb
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\Fractilesss.exe
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\Fractilesss.xml
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\Fractilesss.pdb
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\bin\Debug\Fractilesss.exe
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\bin\Debug\Fractilesss.pdb
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\bin\Debug\Fractilesss.xml
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.ColourSelector.resources
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.frmMandelbrot.resources
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Visual Studio CS\Fractals Folder\Fractals_Latest\Fractals\FractalVB\obj\x86\Debug\Fractilesss.vbproj.GenerateResource.Cache
